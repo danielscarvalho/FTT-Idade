@@ -18,6 +18,8 @@ public class JIdade {
  	    System.out.println("Sua idade é: " + (2018 - scanner.nextInt()));
  	    
  	    scanner.close();
+            
+            System.out.println("Feito!!");
 
 	}
 
